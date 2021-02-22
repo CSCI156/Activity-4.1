@@ -9,7 +9,10 @@ print("\n")
 
 
 def sum(y):
-    y = 0
     for i in range(y):
         y = y + i
     print(y)
+
+sum(100)
+
+print("\n")
